@@ -1,0 +1,24 @@
+# System & IDE
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/
+*.log
+
+# Maven & Java
+target/
+*.class
+*.jar
+*.war
+
+# Node & Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+.env
+.env.local
+
+# Database
+*.sqlite
